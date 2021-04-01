@@ -12,14 +12,14 @@
 1. Choose Your skin File https://namemc.com/
 2. Upload the File On SkinRestorer File Generator
 3. Choose SKIN Type Slim
-4. EnterYour Username
+4. EnterYour Username (make sure all small no caps)
 5. Click Upload
 6. Wait For API to Download Files
 
 𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗙𝗜𝗟𝗘
 1. Go to plugins/SkinsRestorer/Skins folder
-2. Upload The File Thier (ex MR_HEALER.txt)
-3. Rename the file ex MR_HEALER.txt to MR_HEALER.skin.
+2. Upload The File Thier (ex mr_healer.txt)
+3. Rename the file ex mr_healer.txt to mr_healer.skin.
 4. Type skinrestorer reload or restart the server for changes.
 
 𝗔𝗣𝗜 𝗕𝗬 𝗛𝗘𝗔𝗟𝗘𝗥
